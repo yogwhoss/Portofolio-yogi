@@ -316,7 +316,7 @@ export default function Home() {
         }`}
       >
 
-        <div className="pointer-events-none absolute right-[3%] top-0 hidden h-full w-[43%] overflow-visible lg:block">
+        <div className="pointer-events-none absolute right-0 top-0 h-full w-[30%] overflow-visible opacity-70 sm:right-[3%] sm:w-[36%] sm:opacity-100 lg:w-[43%]">
         
 
           <div className="absolute left-0 top-[-20%] h-[140%] w-[42%] overflow-hidden">
